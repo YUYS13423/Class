@@ -1,0 +1,2 @@
+C:\work\Class1\Debug\Class1.exe
+C:\work\c++\Class1\Debug\Class1.exe
